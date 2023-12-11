@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victor, brazilian, 24 yo, from Ribeirão Preto - SP. 
+- 👋 Hi, I’m Victor, brazilian, 26 yo, from Ribeirão Preto - SP. 
 - 🌱👀 I’m currently learning and working on brazilian inflation forecasting models and I'm very interested in quantitative finance. 
 - 📫 If you got this far here, send me a message on Linkedin, let's have a coffee! 
 
