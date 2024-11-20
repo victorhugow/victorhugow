@@ -4,11 +4,4 @@
 
 - [My Netlify Blog](https://victorhugow.netlify.app)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhugow&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-victorhugow/victorhugow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![victorhugow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=victorhugow&theme=vue-dark&hide_border=true)
